@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1425314032 source:/home/edwin/Documents/ProyectoProgramacion3/main.cpp
+	<stdio.h>
+	"ScreenManager.h"
+
+1425314032 /home/edwin/Documents/ProyectoProgramacion3/include/ScreenManager.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<iostream>
+	<string>
+	"GameScreen.h"
+	"SplashScreen.h"
+
+1425313903 source:/home/edwin/Documents/ProyectoProgramacion3/src/ScreenManager.cpp
+	"ScreenManager.h"
+
+1425314090 /home/edwin/Documents/ProyectoProgramacion3/include/GameScreen.h
+	<allegro5/allegro.h>
+
+1425313903 source:/home/edwin/Documents/ProyectoProgramacion3/src/GameScreen.cpp
+	"GameScreen.h"
+
+1425313644 /home/edwin/Documents/ProyectoProgramacion3/include/SplashScreen.h
+	"GameScreen.h"
+
+1425313598 source:/home/edwin/Documents/ProyectoProgramacion3/src/SplashScreen.cpp
+	"SplashScreen.h"
+
